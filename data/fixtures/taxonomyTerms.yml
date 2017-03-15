@@ -48,7 +48,7 @@ QubitTaxonomy:
       eu: 'Aktore Erakunde Motak'
       fr: 'Types d''entités acteurs'
       hu: 'Iratképző entitás típusok'
-      id: 'Tipe Entiti Aktor'
+      id: 'Jenis Entitas Aktor'
       it: 'Tipi di entità dell''Agente'
       ja: 主体者のエンティティの種別
       ka: 'მონაწილე ერთეულის ტიპი'
@@ -179,7 +179,7 @@ QubitTaxonomy:
       fr: 'Types de noms d''acteurs'
       gl: 'Tipos de nome de actor'
       hu: 'Iratképző név típusok'
-      id: 'Tipe Nama Aktor'
+      id: 'Jenis Nama Aktor'
       it: 'Tipi di nome dell''Agente'
       ja: 主体者名の種別
       ka: 'მონაწილის სახელის ტიპი'
@@ -211,6 +211,7 @@ QubitTaxonomy:
       fr: 'Types de notes'
       gl: 'Tipos de nota'
       hu: 'Megjegyzés típusok'
+      id: 'Jenis Catatan'
       is: 'Gerðir athugasemda'
       it: 'Tipi di nota'
       ja: 注記の種別
@@ -244,6 +245,7 @@ QubitTaxonomy:
       fr: 'Types de dépôts'
       gl: 'Tipos de repositorios'
       hu: 'Levéltár típusok'
+      id: 'Jenis Repositori'
       is: 'Gerð varðveislustaðar'
       it: 'Tipologie di deposito'
       ja: リポジトリ種別
@@ -277,7 +279,7 @@ QubitTaxonomy:
       fr: 'Types d''événement'
       gl: 'Tipo de evento'
       hu: Eseménytípusok
-      id: 'Tipe Event'
+      id: 'Jenis Kegiatan'
       is: 'Gerðir atburðar'
       it: 'Tipi di evento'
       ja: イベントの種別
@@ -311,6 +313,7 @@ QubitTaxonomy:
       fr: 'Étiquettes des paramètres Qubit'
       gl: 'Etiquetas de configuración de Qubit'
       hu: 'Qubit beállítások címkéi'
+      id: 'Label Pengaturan Qubit'
       it: 'Etichette delle impostazioni di Qubit'
       ja: Qubit設定レベル
       ka: 'ქუბიტ პარამეტრების ეტიკეტები'
@@ -381,6 +384,7 @@ QubitTaxonomy:
       gl: 'ISDF Tipos de Funcion'
       hr: 'ISDF vrste funkcija'
       hu: 'ISDF Funkció Típusok'
+      id: 'Jenis Fungsi ISDF'
       it: 'Tipologie di funzioni ISDF'
       ja: 'ISDF 機能種別'
       ka: 'ISDF ფუნქციის ტიპები'
@@ -411,6 +415,7 @@ QubitTaxonomy:
       fr: 'Événements historiques'
       gl: 'Acontecementos históricos'
       hu: 'Történelmi események'
+      id: 'Peristiwa Sejarah'
       is: 'Sögulegir viðburðir'
       it: 'Eventi storici'
       ja: 歴史的出来事
@@ -442,7 +447,7 @@ QubitTaxonomy:
       fr: 'Types de collections'
       gl: 'Tipos de coleccións'
       hu: 'Gyűjtemény típusai'
-      id: 'Tipe Koleksi'
+      id: 'Jenis Koleksi'
       is: 'Gerðir sýndarsafns'
       it: 'Tipi di raccolta'
       ja: コレクション種別
@@ -477,6 +482,7 @@ QubitTaxonomy:
       fr: 'Types de supports'
       gl: 'Tipos de medio'
       hu: 'Média Típusok'
+      id: 'Jenis Media'
       is: 'Gerðir miðla'
       it: 'Media Type'
       ja: メディア種別
@@ -540,7 +546,7 @@ QubitTaxonomy:
       fr: 'Type d''objet physique'
       gl: 'Tipo de obxecto físico'
       hu: 'Fizikai objektum típusa'
-      id: 'Tipe fisik objek'
+      id: 'Jenis objek fisik'
       it: 'Tipo di oggetto fisico'
       ja: 物理的オブジェクト種別
       ka: 'ფიზიკური ობიექტის ტიპი'
@@ -572,7 +578,7 @@ QubitTaxonomy:
       fr: 'Type d''association'
       gl: 'Tipo de relación'
       hu: 'Kapcsolat típusa'
-      id: 'Tipe Relasi'
+      id: 'Jenis Relasi'
       is: 'Gerð tengsla'
       it: 'Tipo di relazione'
       ja: 関係の種別
@@ -605,6 +611,7 @@ QubitTaxonomy:
       fr: 'Types de documents'
       gl: 'Tipo de material'
       hu: 'Anyag Típus'
+      id: 'Jenis Material'
       is: Efnisform
       it: 'Tipo di materiale'
       ja: 資料種別
@@ -635,6 +642,7 @@ QubitTaxonomy:
       eu: 'RAD Oharra'
       fr: 'Note RDDA'
       hu: 'RAD jegyzet'
+      id: 'Catatan RAD'
       is: 'RAD - Athugasemd'
       it: 'Nota (RAD)'
       ja: RAD注記
@@ -667,6 +675,7 @@ QubitTaxonomy:
       eu: 'RAD Izenburuaren Oharra'
       fr: 'Note de titre RDDA'
       hu: 'RAD Címsor'
+      id: 'Catatan Judul RAD'
       is: 'RAD - Athugasemd um titil'
       it: 'Nota al titolo (RAD)'
       ja: RADタイトル注記
@@ -699,6 +708,7 @@ QubitTaxonomy:
       eu: 'MODS Baliabide Mota'
       fr: 'Types de ressources MODS'
       hu: 'MODS Forrás Típus'
+      id: 'Jenis Sumber MODS'
       it: 'Tipo di risorsa MODS'
       ja: 'MODS リソース種別'
       ka: 'MODS რესურსის ტიპი'
@@ -728,6 +738,7 @@ QubitTaxonomy:
       fr: 'Types Dublin Core'
       gl: 'Tipos Dublin Core'
       hu: 'Dublin Core típusok'
+      id: 'Jenis Dublin Core'
       is: 'Dublin Core Tegund'
       it: 'Tipi Dublin Core'
       ja: ダブリンコア種別
@@ -757,7 +768,7 @@ QubitTaxonomy:
       fr: 'Type de relation entre acteurs'
       gl: 'Tipo de relación de actor'
       hu: 'Iratképző kapcsolat típusok'
-      id: 'Tipe Relasi Aktor'
+      id: 'Jenis Relasi Aktor'
       it: 'Tipi di relazione dell''Agente'
       ja: 主体者の関係の種別
       ka: 'მონაწილის კავშირის ტიპი'
@@ -788,6 +799,7 @@ QubitTaxonomy:
       fr: 'Types de note sur l''association'
       gl: 'Tipos de nota de relación'
       hu: 'Kapcsolat-megjegyzések típusai'
+      id: 'Jenis Catatan Relasi'
       it: 'Tipi di note sulla relazione'
       ja: 関連する注記の種別
       ka: 'კავშირების შენიშვნების ტიპები'
@@ -815,7 +827,8 @@ QubitTaxonomy:
       fr: 'Types relation entre les termes'
       gl: 'Tipos de relación entre termos'
       hu: 'Kifejezés-viszonyok típusai'
-      id: 'Tipe Relasi Istilah'
+      id: 'Jenis Relasi Istilah'
+      id: 'Jenis Relasi Istilah'
       it: 'Tipi di relazione fra termini'
       ja: 関係の種別に関する用語
       ka: 'ურთიერთობის ტიპების ვადები'
@@ -847,7 +860,7 @@ QubitTaxonomy:
       fr: 'Type de statut'
       gl: 'Tipos de estatuto'
       hu: Állapottípusok
-      id: 'Tipe Status'
+      id: 'Jenis Status'
       it: 'Tipi di stato'
       ja: ステータス種別
       ka: 'სტატუსის ტიპები'
@@ -911,7 +924,7 @@ QubitTaxonomy:
       fr: 'Type de relation entre fonctions'
       gl: 'Tipo de función de relación'
       hu: 'Funkció kapcsolatának típusa'
-      id: 'Tipe Relasi Fungsi'
+      id: 'Jenis Relasi Fungsi'
       it: 'Tipo di relazione della Funzione'
       ja: 機能関係種別
       ka: 'ფუნქციური კავშირის ტიპი'
@@ -943,7 +956,7 @@ QubitTaxonomy:
       fr: 'Type de ressource acquise'
       gl: 'Tipo de recurso de ingreso'
       hu: 'Gyarapodás/szerzemény forrásának típusa'
-      id: 'Tipe sumber Informasi'
+      id: 'Jenis sumber aksesi'
       is: 'Gerð aðfanga'
       it: 'Tipo di risorsa acquisita'
       ja: 受入資料資料種別
@@ -975,7 +988,7 @@ QubitTaxonomy:
       fr: 'Type d''acquisition'
       gl: 'Tipo de ingreso'
       hu: 'Szerzemény irattárba kerülésének típusa'
-      id: 'tipe akuisisi'
+      id: 'Jenis akuisisi aksesi'
       is: 'Tegund aðfanga'
       it: 'Tipo di acquisizione'
       ja: 受入資料の受入種別
@@ -1008,7 +1021,7 @@ QubitTaxonomy:
       fr: 'Priorité du processus d''acquisition'
       gl: 'Prioridade do proceso de ingreso'
       hu: 'Feldolgozás során elsőbbséget élvező gyarapodás/szerzemény'
-      id: 'Prioritas proses'
+      id: 'Prioritas pemprosesan aksesi'
       is: 'Forgangsröðun til úrvinnslu aðfanga'
       it: 'Priorità di trattamento dell''acquisizione'
       ja: 受入資料の処理の優先度
@@ -1040,7 +1053,7 @@ QubitTaxonomy:
       fr: 'Statut du processus d''acquisition'
       gl: 'Estado do proceso de ingreso'
       hu: 'Gyarapodás/szerzemény feldolgozásának státusza'
-      id: 'Status proses'
+      id: 'Status pemprosesan aksesi'
       is: 'Staða úrvinnslu aðfanga'
       it: 'Stato di trattamento dell''acquisizione'
       ja: 受入資料の処理状況
@@ -1072,6 +1085,7 @@ QubitTaxonomy:
       fr: 'Portée de la sortie définitive'
       gl: 'Ámbito do expurgo'
       hu: 'Fogyási tárgy'
+      id: 'Lingkup Deaksesi'
       is: 'Umfang endurskila'
       it: 'Ambito dello scarto o del trasferimento'
       ja: 廃棄の範囲
@@ -1102,6 +1116,7 @@ QubitTaxonomy:
       fr: 'Fondements des droits'
       gl: 'Dereitos básicos'
       hu: 'Jogosultság alapja'
+      id: 'Dasar Hak'
       is: 'Grundvöllur leyfis'
       it: 'Base dei diritti'
       ja: 権利の根拠
@@ -1132,6 +1147,7 @@ QubitTaxonomy:
       fr: 'Actions liées aux droits'
       gl: 'Acta de dereitos'
       hu: 'Műveleti jogosultságok'
+      id: 'Tindakan Hak'
       is: Leyfisréttindi
       it: Atto
       ja: 権利の行動
@@ -1197,6 +1213,7 @@ QubitTaxonomy:
       fr: 'Modèles de description archivistique'
       gl: 'Plantillas de obxectos de información'
       hu: 'Információs objektum minták'
+      id: 'Template Objek Informasi'
       it: 'Modelli degli oggetti informativi'
       ko: '정보 객체 템플릿'
       pt: 'Modelos de objetos de informação'
@@ -1220,6 +1237,7 @@ QubitTaxonomy:
       eu: 'AIP motak'
       fr: 'Types d''AIP'
       hu: 'AIP típusok'
+      id: 'Jenis AIP'
       it: 'Tipi di AIP'
       ko: 'AIP 종류'
       pt: 'Tipos de AIP'
@@ -1243,6 +1261,7 @@ QubitTaxonomy:
       eu: 'Gai Eremua'
       fr: 'Domaine thématique'
       hu: 'Témakörök adatcsoport'
+      id: 'Area Tematik'
       it: 'Area tematica'
       ko: '주제 영역'
       pt: 'Área Temática'
@@ -1269,6 +1288,7 @@ QubitTaxonomy:
       eu: 'Azpieskualde Geografikoa'
       fr: 'Sous-région géographique'
       hu: 'Földrajzi alterület'
+      id: 'Sub wilayah Geografik'
       it: 'Sub-regione geografica'
       ko: '지리적으로 하위 지역'
       pt: 'Sub-região Geográfica'
@@ -1293,6 +1313,7 @@ QubitTaxonomy:
       eu: 'DACS Oharra'
       fr: 'Notes DACS'
       hu: 'DACS jegyzet'
+      id: 'Catatan DACS'
       it: '(DACS) Nota'
       ko: 'DACS 노트'
       pt: 'Nota DACS'
@@ -1315,6 +1336,7 @@ QubitTaxonomy:
       es: Tipo
       fr: Genre
       hu: Műfaj
+      id: Jenis
       pt: Género
       pt-BR: Gênero
       ru: Жанр
@@ -1332,6 +1354,7 @@ QubitTaxonomy:
       en: 'PREMIS Rights Statutes'
       es: 'Estatutos de derechos PREMIS'
       hu: 'PREMIS Jogi Státuszok'
+      id: 'Status Hak PREMIS'
       pt: 'Estatutos de direitos do PREMIS'
       pt-BR: 'PREMIS Estatutos de direitos'
       sv: PREMIS-rättigheter
@@ -1359,6 +1382,7 @@ QubitTerm:
       fr: Production
       gl: Creación
       hu: Létezés
+      id: Penciptaan
       is: Sköpun
       it: Creazione
       ja: 作成
@@ -1393,6 +1417,7 @@ QubitTerm:
       fr: Conservation
       gl: Custódia
       hu: Megőrzés
+      id: Konservasi
       is: Varðveisla
       it: Conservazione
       ja: 収蔵状況
@@ -1461,6 +1486,7 @@ QubitTerm:
       fr: Contribution
       gl: Contribución
       hu: Hozzászólás/hozzájárulás
+      id: Kontribusi
       is: Framlag
       it: Contributo
       ja: 貢献
@@ -1738,6 +1764,7 @@ QubitTerm:
       fr: 'Note d''affichage'
       gl: 'Nota de despergue'
       hu: 'Megjelenítési jegyzet'
+      id: 'Catatan Tampilan'
       is: 'Birta athugasemd'
       it: 'Mostra la nota'
       ja: 表示の注記
@@ -1805,6 +1832,7 @@ QubitTerm:
       fr: 'Documents publiés'
       gl: 'Material publicado'
       hu: 'Közzétett anyag'
+      id: 'Material publikasi'
       is: 'Útgefið efni'
       it: 'Materiale edito'
       ja: 出版資料
@@ -1838,6 +1866,7 @@ QubitTerm:
       eu: 'Artefaktu materiala'
       fr: Artefact
       hu: 'Tárgyi lelet anyaga'
+      id: 'Material artefak'
       is: 'Efni tengt grip'
       it: Manufatti
       ja: 芸術資料
@@ -1906,6 +1935,7 @@ QubitTerm:
       fr: Personne
       gl: Persoa
       hu: Személy
+      id: Orang
       is: Einstaklingur
       it: Persona
       ja: 個人
@@ -1941,7 +1971,7 @@ QubitTerm:
       fr: Famille
       gl: Familia
       hu: Család
-      id: Kekerabatan
+      id: Keluarga
       is: Fjölskylda
       it: Famiglia
       ja: 家
@@ -1976,6 +2006,7 @@ QubitTerm:
       fr: Audio
       gl: Audio
       hu: Hangfelvétel
+      id: Audio
       is: Hljóð
       it: Audio
       ja: オーディオ
@@ -2010,6 +2041,7 @@ QubitTerm:
       fr: Image
       gl: Imaxe
       hu: Kép
+      id: Gambar
       is: Mynd
       it: Immagine
       ja: イメージ
@@ -2079,6 +2111,7 @@ QubitTerm:
       fr: Vidéo
       gl: Vídeo
       hu: Videófelvétel
+      id: Video
       is: Myndband
       it: Video
       ja: ビデオ
@@ -2149,6 +2182,7 @@ QubitTerm:
       fr: 'URI externe'
       gl: 'URI externo'
       hu: 'Külső URI'
+      id: 'Eksternal URI'
       it: 'URI esterno'
       ja: 外部URI
       ka: 'სივრცითი  URI'
@@ -2178,6 +2212,7 @@ QubitTerm:
       eu: Masterra
       fr: Matrice
       hu: Mester
+      id: Master
       it: Master
       ja: マスター
       ka: მფლობელი
@@ -2210,6 +2245,7 @@ QubitTerm:
       fr: Référence
       gl: Referencia
       hu: Referencia
+      id: Referensi
       is: Tilvísun
       it: Riferimento
       ja: レファレンス
@@ -2243,6 +2279,7 @@ QubitTerm:
       fr: Vignette
       gl: Miniatura
       hu: Bélyegkép
+      id: Gambar kecil
       is: Smámynd
       it: Miniatura
       ja: サムネイル
@@ -2275,6 +2312,7 @@ QubitTerm:
       fr: Complexe
       gl: Composto
       hu: Összetétel
+      id: Gabungan
       is: Samsetning
       it: Composto
       ja: 複合
@@ -2344,7 +2382,7 @@ QubitTerm:
       fr: Contenant
       gl: Contenedor
       hu: Tároló
-      id: 'Tempat penyimpanan'
+      id: Tempat penyimpanan
       is: Hylki
       it: Contenitore
       ja: 保存ボックス
@@ -2615,7 +2653,7 @@ QubitTerm:
       fr: hiérarchique
       gl: xerárquica
       hu: hierarchikus
-      id: Hirarki
+      id: Hirarkis
       is: stigveldi
       it: gerarchico
       ja: 階層
@@ -2684,6 +2722,7 @@ QubitTerm:
       fr: famille
       gl: Familia
       hu: család
+      id: keluarga
       is: fjölskylda
       it: famiglia
       ja: 家
@@ -2718,6 +2757,7 @@ QubitTerm:
       fr: 'd''association'
       gl: asociativo
       hu: társulási
+      id: asosiatif
       it: associativo
       ja: その他の関係性
       ka: ასოციაციური
@@ -2781,7 +2821,7 @@ QubitTerm:
       eu: 'dataren bistaratzea'
       fr: 'affichage de la date'
       hu: 'dátum megjelenítése'
-      id: 'Tampilan tanggal'
+      id: 'tampilan tanggal'
       is: dagsetning
       it: 'data visualizzata'
       ja: データ表示
@@ -2813,6 +2853,7 @@ QubitTerm:
       fr: 'Autre libellé'
       gl: 'etiqueta alternativa'
       hu: 'alternatív címke'
+      id: 'label alternatif'
       it: 'Etichetta alternativa'
       ja: 他のラベル
       ka: 'ალტერნატიული ეტიკეტი'
@@ -2844,6 +2885,7 @@ QubitTerm:
       fr: 'd''association'
       gl: asociativo
       hu: társulási
+      id: asosiatif
       it: associativo
       ja: その他の関係性
       ka: ასოციაციური
@@ -2870,6 +2912,7 @@ QubitTerm:
       eu: 'Contrako epea'
       fr: 'Terme contraire'
       hu: 'Fordított (szak)kifejezés'
+      id: 'Istilah kebalikan'
       it: 'Termine opposto'
       ko: '반대 용어'
       pt: 'Converter termo'
@@ -2933,6 +2976,7 @@ QubitTerm:
       fr: Ébauche
       gl: Borrador
       hu: Vázlat
+      id: Konsep
       is: Uppkast
       it: Bozza
       ja: 下書き
@@ -3005,6 +3049,7 @@ QubitTerm:
       fr: 'Note relatives à la mise à jour de la notice'
       gl: 'Nota de mantención'
       hu: 'Karbantartásra vonatkozó megjegyzés'
+      id: 'Catatan pemeliharaan'
       it: 'Nota sulla manutenzione'
       ja: メンテナンス注記
       ka: 'მომსახურე, დამხმარე შენიშვნა'
@@ -3036,7 +3081,7 @@ QubitTerm:
       fa: 'دسترسي از طريق نام'
       fr: 'mots-clés - noms'
       hu: 'név kapcsolódási pontok'
-      id: 'Akses Point ''Nama'''
+      id: 'Nama jalur akses'
       is: nöfn
       it: 'punti di accesso per nome'
       ja: 名称のアクセスポイント
@@ -3070,6 +3115,7 @@ QubitTerm:
       fr: Accroissement
       gl: Acumulación
       hu: Gyarapodás
+      id: Menambah
       is: Viðbót
       it: Incremento
       ja: 追加受入
@@ -3100,6 +3146,7 @@ QubitTerm:
       fr: Acquisition
       gl: Ingreso
       hu: Gyarapodás
+      id: Aksesi
       is: Afhending
       it: Acquisizione
       ja: 受入
@@ -3134,7 +3181,7 @@ QubitTerm:
       fr: Droit
       gl: Dereito
       hu: Jogosultság
-      id: 'Pemegang Hak'
+      id: Pemegang Hak
       is: Leyfi
       it: Diritto
       ja: 権利
@@ -3170,6 +3217,7 @@ QubitTerm:
       fr: Donateur
       gl: Donante
       hu: Adományozó
+      id: Donor
       is: Gefandi
       it: Donatore
       ja: 寄贈者
@@ -3202,6 +3250,7 @@ QubitTerm:
       eu: 'Erlazionaturiko materialaren deskribapenak'
       fr: 'Descriptions matérielles associées'
       hu: 'Kapcsolódó anyagok leírásai'
+      id: 'Deskripsi material terkait'
       it: 'Descrizioni dei materiali collegati'
       ja: 関連資料の記述
       ko: '관련 자료 기술'
@@ -3299,6 +3348,7 @@ QubitTerm:
       fr: 'd''association'
       gl: asociativo
       hu: társulási
+      id: asosiatif
       it: associativo
       ja: その他の関係性
       ka: ასოციაციური
@@ -3330,6 +3380,7 @@ QubitTerm:
       fr: 'Forme normalisée'
       gl: 'Forma normalizada'
       hu: 'Szabványosított alak'
+      id: 'Bentuk standar'
       is: 'Staðlað form'
       it: 'Forma normalizzata'
       ja: 標準形式
@@ -3362,6 +3413,7 @@ QubitTerm:
       fr: 'Droit d''auteur'
       gl: Copyright
       hu: 'Szerzői jog'
+      id: Hak Cipta
       is: Höfundarréttur
       it: Copyright
       ja: 著作権
@@ -3399,6 +3451,7 @@ QubitTerm:
       fr: Licence
       gl: Licenza
       hu: Engedély
+      id: Lisensi
       is: Leyfi
       it: Licenza
       ja: ライセンス
@@ -3432,6 +3485,7 @@ QubitTerm:
       fr: Réglementation
       gl: Estatuto
       hu: Rendelet
+      id: Undang-undang
       is: Lög
       it: Statuto
       ja: 法令
@@ -3496,6 +3550,7 @@ QubitTerm:
       eu: 'AIP erlazioa'
       fr: 'Lien AIP'
       hu: 'AIP kapcsolat'
+      id: 'Relasi AIP'
       it: 'Relazione dell''AIP'
       ko: 'AIP 관계'
       pt: 'Relação AIP'
@@ -3519,6 +3574,7 @@ QubitTerm:
       eu: 'Artelanaren osagaia'
       fr: 'Composante de l''oeuvre'
       hu: 'Műalkotás alkotóeleme/i'
+      id: 'Komponen Karya Seni'
       is: 'Hluti listaverks'
       it: 'Elemento dell''oggetto d''arte'
       ko: '작품 구성'
@@ -3542,6 +3598,7 @@ QubitTerm:
       eu: 'Artelan materiala'
       fr: 'Matériaux de l''oeuvre'
       hu: 'Műalkotás anyaga'
+      id: 'Material Karya Seni'
       is: 'Efni listaverks'
       it: 'Materiale dell''oggetto d''arte'
       ko: '작품 자료'
@@ -3566,6 +3623,7 @@ QubitTerm:
       eu: Laguntza-dokumentazioa
       fr: 'Documentation d''appui'
       hu: Segéddokumentáció
+      id: 'Dokumentasi pendukung'
       it: 'Documentazione di supporto'
       ko: '지원 문서'
       pt: 'Documentação de apoio'
@@ -3590,6 +3648,7 @@ QubitTerm:
       eu: Laguntza-teknologia
       fr: 'Technologie d''appui'
       hu: Segédtechnológia
+      id: 'Teknologi Pendukung'
       it: 'Tecnologia di supporto'
       ko: '지원 기술'
       pt: 'Tecnologia de apoio'
@@ -3611,6 +3670,7 @@ QubitTerm:
       eu: 'ondokoaren nagusia da:'
       fr: 'est le supérieur de'
       hu: alárendeltje
+      id: 'adalah atasan dari'
       it: 'è il superiore di'
       ko: '전자는 후자의 상사다'
       pt: 'é o superior de'
@@ -3633,6 +3693,7 @@ QubitTerm:
       eu: 'ondokoaren menpekoa da:'
       fr: 'est le/la subordonné(e) de'
       hu: fölérendeltje
+      id: 'adalah bawahan dari'
       it: 'è subordinato/a a'
       ko: '전자는 후자의 부하직원이다'
       pt: 'é o subordinado de'
@@ -3657,6 +3718,7 @@ QubitTerm:
       eu: kontrolak
       fr: Contrôles
       hu: vezérlés
+      id: Kontrol
       it: controlli
       ko: '관계 있음'
       pt: controla
@@ -3678,6 +3740,7 @@ QubitTerm:
       eu: 'ondokoak kontrolatzen du:'
       fr: 'est contrôlé par'
       hu: irányítója
+      id: 'dikontrol oleh'
       is: 'er stjórnað af'
       it: 'è controllato/a da'
       ko: '전자는 후자에 의해 제어된다'
@@ -3702,6 +3765,7 @@ QubitTerm:
       eu: 'ondokoaren jabea da:'
       fr: 'est le propriétaire de'
       hu: tulajdona
+      id: 'adalah pemilik dari'
       is: 'er eigandi af'
       it: 'è proprietario di'
       ko: '전자는 후자의 소유주다'
@@ -3724,6 +3788,7 @@ QubitTerm:
       eu: 'ondokoarena da:'
       fr: 'appartient à'
       hu: tulajdonosa
+      id: 'dimiliki oleh'
       is: 'er í eigu'
       it: 'è posseduto/a da'
       ko: '전자는 후자가 소유하고 있다'
@@ -3748,6 +3813,7 @@ QubitTerm:
       eu: 'ondokoaren arbasoa da:'
       fr: 'est le prédécesseur de'
       hu: utódja
+      id: 'adalah pendahulu dari'
       is: 'er forveri'
       it: precede
       ko: '전자는 후자의 전임자다'
@@ -3772,6 +3838,7 @@ QubitTerm:
       eu: 'ondokoaren oinordekoa da:'
       fr: 'est le successeur de'
       hu: elődje
+      id: 'adalah penerus dari' 
       is: 'er eftirmaður'
       it: 'succede a'
       ko: '전자는 후자의 후임이다'
@@ -3795,6 +3862,7 @@ QubitTerm:
       eu: 'ondokoaren hornitzailea da:'
       fr: 'est le fournisseur de'
       hu: 'által rendelkezésre bocsátott'
+      id: 'adalah penyedia dari'
       is: veitir
       it: 'è fornitore/fornitrice di'
       ko: '전자는 후자의 공급자다'
@@ -3819,6 +3887,7 @@ QubitTerm:
       eu: 'ondokoaren bezeroa da:'
       fr: 'est le client de'
       hu: patrónusa
+      id: 'adalah klien dari'
       is: 'er skjólstæðingur'
       it: 'è cliente di'
       ko: '전자는 후자의 고객이다'
@@ -3843,6 +3912,7 @@ QubitTerm:
       eu: 'ondokoaren negoziokidea da:'
       fr: 'est le partenaire d''affaire de'
       hu: 'üzleti partnere'
+      id: 'adalah mitra bisnis dari'
       is: 'er viðskiptafélagi'
       it: 'è partner in affari di'
       ko: '둘은 사업상 동반자이다'
@@ -3865,6 +3935,7 @@ QubitTerm:
       eu: 'ondokoaren bazkidea da:'
       fr: 'est le collègue de'
       hu: társa
+      id: 'adalah asosiasi dari'
       it: 'è socio/a di'
       ko: '둘은 동료다'
       pt: 'é o associado de'
@@ -3888,6 +3959,7 @@ QubitTerm:
       eu: 'ondokoaren laguna da:'
       fr: 'est l''ami(e) de'
       hu: barátja
+      id: 'adalah teman dari'
       is: 'er vinur'
       it: 'è amico/a di'
       ko: '둘은 친구다'
@@ -3912,6 +3984,7 @@ QubitTerm:
       eu: 'ondokoaren aita da:'
       fr: 'est le parent de'
       hu: gyermeke
+      id: 'adalah induk dari'
       is: 'er foreldri'
       it: 'è genitore di'
       ko: '전자는 후자의 부모다'
@@ -3936,6 +4009,7 @@ QubitTerm:
       eu: 'ondokoaren bigarren mailakoa da:'
       fr: 'est l''enfant de'
       hu: szülője
+      id: 'adalah anak dari'
       is: 'er barn'
       it: 'è figlio/a di'
       ko: '전자는 후자의 아이다'
@@ -3960,6 +4034,7 @@ QubitTerm:
       eu: 'ondokoaren anaia edo ahizpa da:'
       fr: 'est le frère/la soeur de'
       hu: ikertestvére
+      id: 'adalah saudara dari'
       is: 'er systkini'
       it: 'è fratello/sorella di'
       ko: '둘은 형제다'
@@ -3984,6 +4059,7 @@ QubitTerm:
       eu: 'ondokoaren ezkonlaguna da:'
       fr: 'est le/la conjoint(e) de'
       hu: házastársa
+      id: 'adalah pasangan dari'
       is: 'er maki'
       it: 'è coniuge di'
       ko: '둘은 부부다'
@@ -4008,6 +4084,7 @@ QubitTerm:
       eu: 'ondokoaren lehengusua da:'
       fr: 'est le cousin de'
       hu: unokatestvére
+      id: 'adalah sepupu dari'
       it: 'è cugino/a di'
       ko: '둘은 사촌이다'
       pt: 'é o primo de'
@@ -4031,6 +4108,7 @@ QubitTerm:
       eu: 'ondokoaren aitona da:'
       fr: 'est le grand-parent de'
       hu: unokája
+      id: 'adalah kakek dari'
       it: 'è nonno/a di'
       ko: '전자는 후자의 조부모다'
       pt: 'é o avô de'
@@ -4054,6 +4132,7 @@ QubitTerm:
       eu: 'ondokoaren biloba da:'
       fr: 'est le petit-enfant de'
       hu: nagyszülője
+      id: 'adalah cucu dari'
       is: 'er barnabarn'
       it: 'è nipote di'
       ko: '전자는 후자의 손주다'
@@ -4083,6 +4162,7 @@ QubitTerm:
       fr: Donateur
       gl: Donante
       hu: Adományozó
+      id: Donor
       is: Gefandi
       it: Donatore
       ja: 寄贈者
@@ -4148,6 +4228,7 @@ QubitTerm:
       fr: Distribution
       gl: Distribución
       hu: (F)elosztás/Osztályozás
+      id: Distribusi
       is: Dreifing
       it: Distribuzione
       ja: 頒布
@@ -4176,6 +4257,7 @@ QubitTerm:
       eu: Broadcasting-a
       fr: 'Diffusion générale'
       hu: '(Rádió/Tv) Közvetítés'
+      id: Penyiaran
       is: Útsending
       it: Trasmissione
       ja: 放送
@@ -4205,6 +4287,7 @@ QubitTerm:
       fr: Fabrication
       gl: Industrial
       hu: Gyári
+      id: Manufakturing
       is: Framleiðsla
       it: Fabbricazione
       ja: 製作する
@@ -4235,7 +4318,7 @@ QubitTerm:
       fr: Boîte
       gl: Caixa
       hu: Doboz
-      id: Boks
+      id: Kotak
       is: Askja
       it: Scatola
       ja: ボックス
@@ -4267,6 +4350,7 @@ QubitTerm:
       eu: 'Kartoizko kutxa'
       fr: 'Boîte en carton'
       hu: Kartondoboz
+      id: 'Kotak Kardus'
       is: Pappakassi
       it: 'Scatola di cartone'
       ja: ダンボール箱
@@ -4298,6 +4382,7 @@ QubitTerm:
       fr: 'Boîte Hollinger'
       gl: 'Caixa "Hollinger"'
       hu: 'Hollinger doboz'
+      id: 'Kotak Hollinger'
       is: 'Hollinger box'
       it: 'Scatola Hollinger'
       ja: 保存箱
@@ -4328,6 +4413,7 @@ QubitTerm:
       fr: Chemise
       gl: Carpeta
       hu: Mappa
+      id: Folder
       is: Mál
       it: Busta
       ja: フォルダー
@@ -4359,6 +4445,7 @@ QubitTerm:
       fr: Classeur
       gl: Arquivador
       hu: 'Irattartó szekrény'
+      id: 'Lemari Arsip'
       is: Skjalaskápur
       it: Classificatore
       ja: ファイリングキャビネット
@@ -4389,6 +4476,7 @@ QubitTerm:
       eu: 'Mapa kabinetea'
       fr: 'Classeur à plan'
       hu: 'Térkép szekrény'
+      id: 'Kabinet Peta'
       is: Kortaskápur
       it: 'Cassettiera per mappe'
       ja: 地図のキャビネット
@@ -4453,6 +4541,7 @@ QubitTerm:
       fr: Final
       gl: Final
       hu: Végleges
+      id: Final
       is: Loka
       it: Finale
       ja: 最終
@@ -4521,6 +4610,7 @@ QubitTerm:
       fr: Ébauche
       gl: Borrador
       hu: Vázlat
+      id: Draft
       is: Uppkast
       it: Bozza
       ja: 下書き
@@ -4556,6 +4646,7 @@ QubitTerm:
       fr: Complet
       gl: Completo
       hu: Teljes
+      id: Lengkap
       is: Fullt
       it: Massimo
       ja: 完結
@@ -4623,6 +4714,7 @@ QubitTerm:
       fr: Élémentaire
       gl: Mínimo
       hu: Minimális
+      id: Minimal
       is: Lágmarks
       it: Minimo
       ja: 最低限
@@ -4656,6 +4748,7 @@ QubitTerm:
       fr: Fonds
       gl: Fondos
       hu: Fond
+      id: Fond
       is: Safn
       it: Fondo
       ja: フォンド
@@ -4690,6 +4783,7 @@ QubitTerm:
       fr: Sous-fonds
       gl: Sub-fondo
       hu: Állagok
+      id: Subfond
       is: Undirsafn
       it: Sub-fondo
       ja: サブフォンド
@@ -4757,6 +4851,7 @@ QubitTerm:
       fr: Série
       gl: Series
       hu: Sorozat
+      id: Serie
       is: Skjalaflokkur
       it: Serie
       ja: シリーズ
@@ -4790,6 +4885,7 @@ QubitTerm:
       fr: Sous-série
       gl: Sub-series
       hu: Alsorozat
+      id: subserie
       is: Undirskjalaflokkur
       it: Sottoserie
       ja: サブシリーズ
@@ -4823,6 +4919,7 @@ QubitTerm:
       fr: Dossier
       gl: Dossier
       hu: Fájl
+      id: File
       is: Málaflokkur
       it: 'Unità archivistica'
       ja: ファイル
@@ -4857,6 +4954,7 @@ QubitTerm:
       fr: Pièce
       gl: Item
       hu: Iratdarab
+      id: Item
       is: Eining
       it: 'Unità documentaria'
       ja: アイテム
@@ -4888,6 +4986,7 @@ QubitTerm:
       fr: 'Description archivistique'
       gl: 'Obxecto de información'
       hu: 'Információs objektum'
+      id: 'Objek Informasi'
       it: 'Oggetto informativo'
       ja: 情報オブジェクト
       ka: 'საინფორმაციო ობიექტი'
@@ -4919,6 +5018,7 @@ QubitTerm:
       fr: Personne/organisme
       gl: Persoa/organización
       hu: Személy/szervezet
+      id: Orang/Organisasi
       is: Einstaklingur/skipulagsheild
       it: Persona/Organizzazione
       ja: 個人/機関
@@ -5127,6 +5227,7 @@ QubitTerm:
       fr: Fonds
       gl: Fondos
       hu: Állomány
+      id: Holdings
       is: Skjalamagn
       it: Patrimoni
       ja: 所蔵
@@ -5232,6 +5333,7 @@ QubitTerm:
       fr: Fonds
       gl: Fondos
       hu: Fond
+      id: Fond
       is: Safn
       it: Fondo
       ja: フォンド
@@ -5267,7 +5369,7 @@ QubitTerm:
       fr: 'Service d''archives'
       gl: 'Institución arquivística'
       hu: Levéltár
-      id: 'Institusi Arsip'
+      id: 'Lembaga Kearsipan'
       is: Vörslustofnun
       it: 'Istituzione archivistica'
       ja: アーカイブズ機関
@@ -5302,6 +5404,7 @@ QubitTerm:
       fr: International
       gl: Internacional
       hu: nemzetközi
+      id: Internasional
       is: Alþjóðleg
       it: Internazionale
       ja: 国際的
@@ -5333,6 +5436,7 @@ QubitTerm:
       fr: National
       gl: Nacional
       hu: nemzeti
+      id: Nasional
       is: Þjóðlegt
       it: Nazionale
       ja: 国家の
@@ -5366,6 +5470,7 @@ QubitTerm:
       fr: Régional
       gl: Rexional
       hu: regionális
+      id: Regional
       is: Svæðisbundið
       it: Regionale
       ja: 地域の
@@ -5432,6 +5537,7 @@ QubitTerm:
       fr: Communautaire
       gl: Comunitario
       hu: közösségi
+      id: Komunitas
       is: Samfélag
       it: Comunità
       ja: コミュニティ
@@ -5466,7 +5572,7 @@ QubitTerm:
       fr: Religieux
       gl: Relixioso
       hu: egyházi
-      id: Agama
+      id: Keagamaan
       is: Trúarlegt
       it: Religioso
       ja: 宗教的な
@@ -5534,6 +5640,7 @@ QubitTerm:
       fr: Municipal
       gl: Municipal
       hu: városi
+      id: Kota
       it: Municipale
       ja: 市町村の
       ka: 'მინიციპალური, საქალაქო'
@@ -5594,6 +5701,7 @@ QubitTerm:
       fr: Scolaire
       gl: Educativo
       hu: oktatási
+      id: Pendidikan
       is: Menntastofnun
       it: Educativo
       ja: 教育上の
@@ -5624,6 +5732,7 @@ QubitTerm:
       fr: Médical
       gl: Médico
       hu: orvosi
+      id: Medis
       is: Læknisfræðilegt
       it: Medico
       ja: 医療の
@@ -5656,6 +5765,7 @@ QubitTerm:
       fr: 'Forces armées'
       gl: Militar
       hu: hadi
+      id: Militer
       is: Hernaðarlegt
       it: 'Forze armate'
       ja: 軍事の
@@ -5690,6 +5800,7 @@ QubitTerm:
       fr: Privé
       gl: Privado
       hu: magán
+      id: Pribadi
       is: Einka
       it: Privato
       ja: 個人的な
@@ -5831,7 +5942,7 @@ QubitTerm:
       fr: 'Objet physique'
       gl: 'Obxecto físico'
       hu: 'Fizikai objektum'
-      id: 'Fisik Objek'
+      id: 'Objek Fisik'
       it: 'Oggetto fisico'
       ja: 物理的オブジェクト
       ka: 'ფიზიკური ობიექტი'
@@ -5898,6 +6009,7 @@ QubitTerm:
       fr: 'Type de support'
       gl: 'Tipo de medio'
       hu: 'Média típus'
+      id: 'Jenis Media'
       is: 'Gerð miðla'
       it: 'Tipo di supporto'
       ja: メディア種別
@@ -5932,6 +6044,7 @@ QubitTerm:
       eu: 'Informazio Librearentzako Kudeaketa Tresnak'
       fr: 'Outil ouvert de gestion de l''information'
       hu: 'Nyissa meg az Információs Menedzsment Eszköztárat'
+      id: Peralatan Manajemen Informasi Terbuka'
       it: 'Open Information Management Toolkit'
       ja: 'Information Management Toolkitを開く'
       ka: 'გახსენით ინფორმაციის მენეჯმენტის კომპლექტი'
@@ -5994,7 +6107,7 @@ QubitTerm:
       fr: 'Dessin d''architecture'
       gl: 'Deseño arquitectónico'
       hu: 'Építészeti rajz'
-      id: 'Gambar Teknik'
+      id: 'Gambar Arsitektur'
       is: 'Teikningar af byggingum (arkitekt)'
       it: 'Disegno architettonico'
       ja: 建築図面
@@ -6028,7 +6141,7 @@ QubitTerm:
       fr: 'Document cartographique'
       gl: 'Material cartográfico'
       hu: 'Térképészeti anyag'
-      id: 'Materi Peta'
+      id: 'Material Kartografi'
       is: 'Landfræðileg gögn'
       it: 'Materiale cartografico'
       ja: 地図資料
@@ -6064,6 +6177,7 @@ QubitTerm:
       fr: 'Document iconographique'
       gl: 'Material gráfico'
       hu: 'Grafikus anyag'
+      id: 'Material Grafis'
       is: 'Grafískt efni'
       it: 'Materiale grafico'
       ja: グラフィック資料
@@ -6096,6 +6210,7 @@ QubitTerm:
       fr: 'Images en mouvement'
       gl: 'Imaxes en movemento'
       hu: 'Mozgó képek'
+      id: 'Gambar Bergerak'
       is: 'Flyt myndir'
       it: 'Immagini in movimento'
       ja: 動画
@@ -6126,6 +6241,7 @@ QubitTerm:
       eu: 'Media anitz'
       fr: 'Supports multiples'
       hu: 'Összetett média'
+      id: 'Beberapa Media'
       is: 'Mörg miðlunarform'
       it: 'Molteplici tipologie'
       ja: マルチメディア
@@ -6157,6 +6273,7 @@ QubitTerm:
       fr: Objet
       gl: Obxecto
       hu: Tárgy
+      id: Objek
       is: Hlutur
       it: Oggetto
       ja: オブジェクト
@@ -6287,7 +6404,7 @@ QubitTerm:
       fr: 'Document textuel'
       gl: 'Rexistro textual'
       hu: 'Szöveges rekord'
-      id: 'Arsip Teks'
+      id: 'Arsip Tekstual'
       is: Textaskjal
       it: 'Documentazione testuale'
       ja: 文字情報からなる記録
@@ -6481,6 +6598,7 @@ QubitTerm:
       fr: 'Désignations alphanumériques'
       gl: 'Designacións alfanuméricas'
       hu: 'Alfanumerikus jelölések'
+      id: Sebutan alfanumerik
       it: 'Identificazioni alfanumeriche'
       ja: 文字-数字の指定
       ka: 'ანბანური ან ციფრობრივი აღნიშვნა'
@@ -6545,7 +6663,7 @@ QubitTerm:
       fr: 'Variantes du titre'
       gl: 'Variacións no título'
       hu: Címváltozatok
-      id: 'Variasi judul'
+      id: 'Variasi di judul'
       is: 'Breytileiki í titli'
       it: 'Varianti del titolo'
       ja: タイトルのバリエーション
@@ -6573,6 +6691,7 @@ QubitTerm:
       es: 'Fuente del título'
       fr: 'Source du titre propre'
       hu: 'A főcím forrása'
+      id: 'Sumber judul yang tepat'
       is: 'Heimildir um samræmdan titil'
       it: 'Fonte del titolo proprio'
       ja: タイトルの情報源
@@ -6698,6 +6817,7 @@ QubitTerm:
       fr: 'Attributions et conjectures'
       gl: 'Atribucións e conxeturas'
       hu: 'Tulajdonítások és következtetések'
+      id: 'Atribusi dan dugaan'
       it: 'Attibuzioni e congetture'
       ja: 帰属と推測
       ka: აბრევიატურები
@@ -6798,7 +6918,7 @@ QubitTerm:
       fr: 'documents cartographiques'
       gl: cartográfico
       hu: térképészeti
-      id: Peta
+      id: Kartografi
       is: kortagerðar-
       it: cartografico
       ja: 地図の
@@ -6828,6 +6948,7 @@ QubitTerm:
       fr: 'partitions musicales'
       gl: 'música anotada'
       hu: 'zenei kotta'
+      id: 'Musik dinotasikan'
       is: tónlist
       it: 'notazione musicale'
       ja: 表記された音楽
@@ -6943,7 +7064,7 @@ QubitTerm:
       fr: 'images fixes'
       gl: 'imaxe fixa'
       hu: fénykép
-      id: 'gambar tetap'
+      id: 'gambar diam'
       is: mynd
       it: 'immagine statica'
       ja: 静止画像
@@ -7071,7 +7192,7 @@ QubitTerm:
       fr: 'documentation mixte'
       gl: 'material mixto'
       hu: 'vegyes anyag'
-      id: 'Material tetap'
+      id: 'Bahan campuran'
       is: 'margvíslegt efni'
       it: 'materiale misto'
       ja: 複合資料
@@ -7137,6 +7258,7 @@ QubitTerm:
       eu: 'data multzo'
       fr: 'ensemble de données'
       hu: adathalmaz
+      id: dataset
       is: gagnasett
       it: dataset
       ja: データセット
@@ -7168,6 +7290,7 @@ QubitTerm:
       fr: événement
       gl: evento
       hu: esemény
+      id: Kegiatan
       is: atburður
       it: evento
       ja: イベント
@@ -7365,6 +7488,7 @@ QubitTerm:
       fr: logiciel
       gl: software
       hu: szoftver
+      id: Perangkat lunak
       is: hugbúnaður
       it: software
       ja: ソフトウエア
@@ -7428,7 +7552,7 @@ QubitTerm:
       fr: 'images fixes'
       gl: 'imaxe fixa'
       hu: fénykép
-      id: 'gambar tetap'
+      id: 'gambar diam'
       is: mynd
       it: 'immagine statica'
       ja: 静止画像
@@ -7528,6 +7652,7 @@ QubitTerm:
       fr: Sous-fonction
       gl: Subfunción
       hu: Alfunkció
+      id: Sub fungsi
       is: Undirvirkni
       it: Sottofunzione
       ja: サブ機能
@@ -7559,7 +7684,7 @@ QubitTerm:
       fr: 'Processus d''activité'
       gl: 'Proceso de negocio'
       hu: 'Üzleti folyamat'
-      id: 'Bisnis Proses'
+      id: 'Proses Bisnis'
       it: Processo
       ja: 業務過程
       ka: 'საქმიანი პროცესი'
@@ -7627,6 +7752,7 @@ QubitTerm:
       fr: Tâche
       gl: Tarea
       hu: Feladat
+      id: Tugas
       it: Compito
       ja: タスク
       ka: 'დავალება (ამოცანა)'
@@ -7690,6 +7816,7 @@ QubitTerm:
       fr: 'Versement d''archives publiques'
       gl: 'Transferencia pública'
       hu: 'Nyilvános átadás'
+      id: 'Transfer Publik'
       is: 'Opinber tilfærsla'
       it: 'Trasferimento pubblico'
       ja: 公共移転
@@ -7721,6 +7848,7 @@ QubitTerm:
       fr: 'Versement d''archives privées'
       gl: 'Transferencia privada'
       hu: 'Bizalmas átadás'
+      id: 'Transfer Pribadi'
       is: Einkatilfærsla
       it: 'Trasferimento privato'
       ja: 個人的な移転
@@ -7751,6 +7879,7 @@ QubitTerm:
       fr: Dépôt
       gl: Depósito
       hu: Letét
+      id: Deposit
       is: 'Lagt inn'
       it: Deposito
       ja: デポジット
@@ -7884,6 +8013,7 @@ QubitTerm:
       fr: Haute
       gl: Alto
       hu: Magas
+      id: Tinggi
       is: Hátt
       it: Alto
       ja: 上位
@@ -7914,6 +8044,7 @@ QubitTerm:
       fr: Moyenne
       gl: Medio
       hu: Közepes
+      id: Sedang
       is: Miðlungs
       it: Supporto
       ja: 媒体
@@ -7948,6 +8079,7 @@ QubitTerm:
       fr: Basse
       gl: Baixo
       hu: Alacsony
+      id: Rendah
       is: Lágt
       it: Basso
       ja: 低い
@@ -7980,6 +8112,7 @@ QubitTerm:
       fr: Complet
       gl: Completo
       hu: Teljes
+      id: Lengkap
       is: Lokið
       it: Completo
       ja: 完成する
@@ -8013,6 +8146,7 @@ QubitTerm:
       fr: Incomplet
       gl: Incompleto
       hu: Befejezetlen
+      id: Belum Lengkap
       is: Ólokið
       it: Incompleto
       ja: 不完全
@@ -8044,6 +8178,7 @@ QubitTerm:
       fr: 'En cours'
       gl: 'En proceso'
       hu: Folyamatban
+      id: Dalam Proses
       is: 'Í vinnslu'
       it: 'In corso'
       ka: პროგრესში
@@ -8178,6 +8313,7 @@ QubitTerm:
       fr: Découvrir
       gl: Descubrir
       hu: Feltárás
+      id: Menemukan
       is: 'Nota á lestrarsal'
       it: Scopri
       ja: 発見する
@@ -8208,6 +8344,7 @@ QubitTerm:
       fr: Afficher
       gl: Despregue
       hu: Megjelenítés
+      id: Tampilan
       is: 'Nota á sýningu'
       it: Mostra
       ja: 表示する
@@ -8238,6 +8375,7 @@ QubitTerm:
       fr: Diffuser
       gl: Diseminar
       hu: Teresztés
+      id: Menyebarkan
       is: Dreifa
       it: Diffondi
       ja: 普及させる
@@ -8269,6 +8407,7 @@ QubitTerm:
       fr: Migrer
       gl: Migración
       hu: Migrálás
+      id: Migrasi
       is: Flytja
       it: Migra
       ja: マイグレーション
@@ -8302,6 +8441,7 @@ QubitTerm:
       fr: Modifier
       gl: Modificar
       hu: Módosítás
+      id: Mengubah
       is: Breyta
       it: Modifica
       ja: 改変する
@@ -8332,6 +8472,7 @@ QubitTerm:
       fr: Reproduire
       gl: Replicar
       hu: Replika
+      id: Replikasi
       is: Afrita
       it: Replica
       ja: 複製する
@@ -8363,7 +8504,7 @@ QubitTerm:
       fr: 'Utilisation soumise à copyright'
       gl: 'Baixo licenza copyright'
       hu: 'Szerzői joggal védett'
-      id: 'Kewenangan Hak Cipta'
+      id: 'Memiliki Hak Cipta'
       is: 'Nýtur höfundarréttar'
       it: 'Soggetto a copyright'
       ja: 著作権で保護されています
@@ -8396,6 +8537,7 @@ QubitTerm:
       fr: 'Domaine public'
       gl: 'Dominio público'
       hu: 'Nyilvános tartomány'
+      id: 'Domain Publik'
       it: 'Dominio pubblico'
       ja: パブリックドメイン
       ka: 'სახალხო ადგილი'
@@ -8466,6 +8608,7 @@ QubitTerm:
       gl: 'ISAD(G), 2da ed. Consello Internacional de Arquivos'
       hr: 'ISAD(G), 2 izdanje, Međunarodno arhivsko vijeće'
       hu: 'ISAD(G), 2. kiadás. Nemzetközi Levéltári Tanács'
+      id: 'ISAD(G), Edisi kedua. Dewan Kearsipan Internasional'
       is: 'ISAD(G), 2. útg. International Council on Archives'
       it: 'ISAD(G), 2nd ed. International Council on Archives'
       ka: 'ISAD(G), 2nd ed. საერთაშორისო საბჭო(ორგანიზაცია) არქივების'
@@ -8496,6 +8639,7 @@ QubitTerm:
       fr: 'Dublin Core, version 1.1, Inititative de métadonnées Dublin Core'
       gl: 'Dublin Core, Versión 1.1 Iniciativa de Metadatos Dublin Core'
       hu: 'Dublin Core, Version 1.1. Dublin Core Metadata Initiative'
+      id: 'Dublin Core, Version 1.1. Dublin Core Metadata Initiative'
       it: 'Dublin Core, Version 1.1. Dublin Core Metadata Initiative'
       ka: 'დაბლინ კორ მეტამონაცემების ელემენტთა სიმრავლე, ვერსია 1.1 ის ინიციატივა'
       ko: '더블린코어(Dublin Core) 1.1판. 더블린코어 메타데이터 이니시에이티브(DCMI)'
@@ -8527,6 +8671,7 @@ QubitTerm:
       gl: 'MODS, Versión 3.3 Biblioteca do Congreso dos Estados Unidos'
       hu: 'MODS, 3.3.-as verzió. Egyesült Államok. Kongresszusi Könyvtár'
       is: 'MODS, útgáfa 3.3. U.S. Library of Congres'
+      id: 'MODS, Version 3.3. U.S. Library of Congress'
       it: 'MODS, Version 3.3. U.S. Library of Congress'
       ka: 'MODS, ვერსია 3.3 ა.შ.შ-ს კონგრესის ბიბლიოთეკა'
       ko: 'MODS, 3.3판. 미국 의회도서관'
@@ -8557,6 +8702,7 @@ QubitTerm:
       fr: 'RDDA, version de juillet 2008, Conseil canadien des archives'
       gl: 'RAD, versión Xullo 2008. Consello Canadiano de arquivos'
       hu: 'RAD, 2008 júliusi változat. Canadian Council of Archives'
+      id: 'RAD, July 2008 version. Canadian Council of Archives'
       is: 'RAD (júlí 2008). Canadian Council of Archives'
       it: 'RAD, July 2008 version. Canadian Council of Archives'
       ka: 'RAD 2008 წლის ვერსია'
@@ -8584,6 +8730,7 @@ QubitTerm:
       fr: 'DACS, 2e éd., Société des archivistes américains'
       gl: 'DACS, 2nd ed. Society of American Archivists'
       hu: 'DACS, 2nd ed. Society of American Archivists'
+      id: 'DACS, 2nd ed. Society of American Archivists'
       is: 'DACS, 2. út. Society of American Archivists'
       it: 'DACS, 2nd ed. Society of American Archivists'
       ko: '보존 기록 기술 규칙 제 2 판. 미국 아키비스트 협회'
@@ -8609,6 +8756,7 @@ QubitTerm:
       eu: 'Herrialde Aborigenak'
       fr: 'Peuples autochtones'
       hu: őslakosok
+      id: Orang Pribumi
       is: Frumbyggjar
       it: Aborigeni
       ko: 원주민
@@ -8633,6 +8781,7 @@ QubitTerm:
       eu: Nekazaritza
       fr: Agriculture
       hu: Mezőgazdaság
+      id: Pertanian
       is: Landbúnaður
       it: Agricoltura
       ko: 농업
@@ -8658,6 +8807,7 @@ QubitTerm:
       eu: 'Artea eta Kultura'
       fr: 'Arts et culture'
       hu: 'Művészetek és kultúra'
+      id: 'Seni dan Budaya'
       is: 'List og menning'
       it: 'Arte e cultura'
       ko: '예술 및 문화'
@@ -8683,6 +8833,7 @@ QubitTerm:
       eu: Komunikazioa
       fr: Communication
       hu: Kommunikáció
+      id: Komunikasi
       is: Samskipti
       it: Comunicazione
       ko: 소통
@@ -8708,6 +8859,7 @@ QubitTerm:
       eu: Hezkuntza
       fr: Éducation
       hu: Oktatás
+      id: Pendidikan
       is: Menntun
       it: Educazione
       ko: 교육
@@ -8732,6 +8884,7 @@ QubitTerm:
       eu: Ingurunea
       fr: Environnement
       hu: Környezet
+      id: Lingkungan
       is: Umhverfi
       it: Ambiente
       ko: 환경
@@ -8758,6 +8911,7 @@ QubitTerm:
       eu: 'Familia / Etxeko Bizitza'
       fr: 'Vie privée'
       hu: 'Család / Családi élet'
+      id: 'Keluarga / Rumah tangga'
       is: 'Fjölskyldulíf / Heimilislif'
       it: 'Famiglia / Vita domestica'
       ko: '가족 / 가정 생활'
@@ -8781,6 +8935,7 @@ QubitTerm:
       eu: Genealogikoa
       fr: Généalogique
       hu: Leszármazási
+      id: Silsilah
       it: Genealogico
       ko: 족보의
       pt: Genealogia
@@ -8804,6 +8959,7 @@ QubitTerm:
       eu: Geografia
       fr: Géographie
       hu: Földrajz
+      id: Geografi
       it: Geografia
       ko: 지리
       pt: Geografia
@@ -8826,6 +8982,7 @@ QubitTerm:
       eu: 'Industria, Fabrikazioa eta Merkataritza'
       fr: 'Industries, fabrication, et commerce'
       hu: 'Ipar, Kézművesség és Kereskedelem'
+      id: 'Industri, Manufaktur dan Perdagangan'
       it: 'Industria, artigianato e commercio'
       ko: '산업, 제조업 및 상업'
       pt: 'Indústria, Manufatura e Comércio'
@@ -8850,6 +9007,7 @@ QubitTerm:
       eu: Egitekoa
       fr: Travail
       hu: Labor
+      id: Tenaga Kerja
       it: Lavoro
       ko: 노동
       pt: Trabalho
@@ -8872,6 +9030,7 @@ QubitTerm:
       eu: 'Legea eta Justizia'
       fr: 'Droit et justice'
       hu: 'Jog és igazságszolgáltatás'
+      id: 'Hukum dan Keadilan'
       it: Legge
       ko: '법과 정의'
       pt: 'Lei e Justiça'
@@ -8894,6 +9053,7 @@ QubitTerm:
       es: 'Medicina y salud'
       fr: 'Médecine et santé'
       hu: 'Orvostan és Egészség'
+      id: 'Pengobatan dan Kesehatan'
       is: 'Læknisfræði og heilsa'
       it: 'Medicina e salute'
       ko: '의학 및 건강'
@@ -8921,6 +9081,7 @@ QubitTerm:
       eu: Militarra
       fr: 'Forces armées'
       hu: hadi
+      id: Militer
       is: Hernaðarlegt
       it: 'Forze armate'
       ko: 군대
@@ -8947,6 +9108,7 @@ QubitTerm:
       eu: 'Baliabide Naturalak'
       fr: 'Richesses naturelles'
       hu: 'Természeti források'
+      id: 'Sumber daya alam'
       is: 'Náttúrulegar auðlindir'
       it: 'Risorse naturali'
       ja: 天然資源
@@ -8975,6 +9137,7 @@ QubitTerm:
       eu: 'Politikak eta Gobernua'
       fr: 'Politique et gouvernement'
       hu: 'Politika és Közigazgatás'
+      id: 'Politik dan Pemerintahan'
       it: 'Politica e governo'
       ko: '정치 및 정부'
       pt: 'Política e Governo'
@@ -8999,6 +9162,7 @@ QubitTerm:
       eu: Populazioak
       fr: Populations
       hu: Populációk
+      id: Populasi
       it: Popoli
       ko: 인구
       pt: População
@@ -9021,6 +9185,7 @@ QubitTerm:
       eu: 'Jolasa / Aisialdia / Kirolak'
       fr: 'Loisirs et sports'
       hu: 'Kikapcsolódás / Pihenés / Sport'
+      id: 'Rekreasi / Hiburan / Olahraga'
       is: 'Afþreying / Tómstundir / Íþróttir'
       it: 'Divertimento / Tempo libero / Sport'
       ja: レクリエーション／レジャー／スポーツ
@@ -9047,6 +9212,7 @@ QubitTerm:
       eu: Erlijioa
       fr: Religion
       hu: Vallás
+      id: Agama
       it: Religione
       ja: 宗教
       ko: 종교
@@ -9072,6 +9238,7 @@ QubitTerm:
       eu: 'Zientzia eta teknologia'
       fr: 'Sciences et technologie'
       hu: 'Tudomány és Technológia'
+      id: 'Ilmu Pengetahuan dan Teknologi'
       it: 'Scienza e tecnologia'
       ja: 科学技術
       ko: '과학 및 기술'
@@ -9097,6 +9264,7 @@ QubitTerm:
       eu: 'Giza Erakundeak eta Jarduerak'
       fr: 'Vie sociale'
       hu: 'Társadalmi szervezetek és tevékenységek'
+      id: 'Aktivitas dan Organisasi Sosial'
       it: 'Attività e organizzazioni a carattere sociale'
       ko: '사회 단체 및 활동'
       pt: 'Organizações Sociais e Atividades'
@@ -9119,6 +9287,7 @@ QubitTerm:
       eu: Garraioa
       fr: Transport
       hu: Szállítás
+      id: Transportasi
       it: Trasporti
       ko: 교통
       pt: Transportes
@@ -9142,6 +9311,7 @@ QubitTerm:
       eu: 'Bidaia eta Esplorazioa'
       fr: 'Voyages et exploration'
       hu: 'Utazás és Felfedezés'
+      id: 'Wisata dan Penjelajahan'
       it: 'Viaggi ed esplorazioni'
       ko: '여행 및 탐험'
       pt: 'Viagens e Exploração'
@@ -9198,6 +9368,7 @@ QubitTerm:
       eu: Zitazioa
       fr: Citation
       hu: Idézet
+      id: Kutipan
       is: Tilvitnun
       it: Citazione
       ko: 인용
@@ -9222,6 +9393,7 @@ QubitTerm:
       eu: 'Izendapen alfanumerikoa'
       fr: 'Désignations alphanumériques'
       hu: 'Alfanumerikus jelölések'
+      id: 'Sebutan alfanumerik'
       it: 'Identificazioni alfanumeriche'
       ko: '문자 및 숫자로된 명칭'
       pt: 'Designações alfanuméricas'
@@ -9245,6 +9417,7 @@ QubitTerm:
       eu: 'Izenburuaren informazioaren aldagaia'
       fr: 'Information à propos de la variante du titre'
       hu: 'Változó cím információ'
+      id: 'Informasi judul berbeda'
       it: 'Informazioni sulla variante del titolo'
       ko: '다양한 제목 정보'
       pt: 'Informação do título variável'
@@ -9268,6 +9441,7 @@ QubitTerm:
       eu: 'Informazioa prozesatzen'
       fr: 'Information en traitement'
       hu: 'Információ feldolgozás'
+      id: 'Informasi Pengolahan'
       it: 'Note sull''elaborazione'
       ko: '처리 정보'
       pt: 'Processamento de informação'
@@ -9288,6 +9462,7 @@ QubitTerm:
       es: 'Actividad de mantenimiento de registros'
       eu: 'Erregistroen mantenimendurako aktibitatea'
       hu: 'Nyilvántartás készítés'
+      id: 'Aktivitas Pencatatan'
       it: 'Tenuta documentale'
       ja: レコードキーピング活動
       ko: '기록되는 동작'
@@ -9310,6 +9485,7 @@ QubitTerm:
       es: Anuncios
       fr: Publicités
       hu: Hirdetések
+      id: Iklan
       is: Auglýsingar
       pt: Anúncios
       pt-BR: Anúncios
@@ -9328,6 +9504,7 @@ QubitTerm:
       es: Álbumes
       fr: Albums
       hu: Albumok
+      id: Album
       is: Albúm
       pt: Álbuns
       pt-BR: Álbuns
@@ -9347,6 +9524,7 @@ QubitTerm:
       es: Arquitectura
       fr: Architecture
       hu: Építészet
+      id: Arsitektur
       is: Arkitektúr
       it: Architettura
       pt: Arquitectura
@@ -9367,6 +9545,7 @@ QubitTerm:
       es: 'Formularios en blanco'
       fr: 'Formulaires vierges'
       hu: 'Üres formák/formátumok'
+      id: 'Formulir Kosong'
       is: 'Auð form'
       pt: 'Formulários em branco'
       pt-BR: 'Formulários em branco'
@@ -9385,6 +9564,7 @@ QubitTerm:
       es: Libros
       fr: Livres
       hu: Könyvek
+      id: Buku
       is: Bækur
       pt: Livros
       pt-BR: Livros
@@ -9404,6 +9584,7 @@ QubitTerm:
       es: Broadsides
       fr: Bordées
       hu: 'Egylapos/egyoldalas nyomtatványok'
+      id: Selebaran
       pt: Bordos
       pt-BR: Panfletos
       sl: 'Reklamni letaki'
@@ -9418,6 +9599,7 @@ QubitTerm:
       es: 'Dibujos animados (Comentario)'
       fr: 'Dessins animés (commentaire)'
       hu: 'Képregények (kommentár)'
+      id: 'Kartun (Komentar)'
       is: 'Teiknimyndir (Skýringar)'
       pt: 'Desenhos (Comentário)'
       pt-BR: 'Desenhos animados (Comentário)'
@@ -9436,6 +9618,7 @@ QubitTerm:
       es: Catálogos
       fr: Catalogues
       hu: Katalógusok
+      id: Katalog
       is: Skrár
       it: Cataloghi
       pt: Catálogos
@@ -9456,6 +9639,7 @@ QubitTerm:
       es: 'Paisajes urbanos'
       fr: 'Paysages urbains'
       hu: Városképek
+      id: Gambar Kota
       is: Borgarsýn
       pt: 'Paisagens urbanas'
       pt-BR: 'Paisagens urbanas'
@@ -9471,6 +9655,7 @@ QubitTerm:
       es: 'Recortes de prensa'
       fr: 'Coupures de presse'
       hu: (Újság)kivágások
+      id: Kliping
       is: Úrklippur
       it: Ritagli
       pt: Recortes
@@ -9489,6 +9674,7 @@ QubitTerm:
       es: Correspondencia
       fr: Correspondance
       hu: Levelezés
+      id: Koresponden
       it: Corrispondenza
       pt: Correspondência
       pt-BR: Correspondência
@@ -9508,6 +9694,7 @@ QubitTerm:
       es: Diarios
       fr: Agendas
       hu: Naplók
+      id: Agenda
       is: Dagbækur
       it: Diari
       pt: Diários
@@ -9527,6 +9714,7 @@ QubitTerm:
       es: Dibujos
       fr: Dessins
       hu: Rajzok
+      id: Gambar
       is: Teikningar
       pt: Desenhos
       pt-BR: Desenhos
@@ -9545,6 +9733,7 @@ QubitTerm:
       es: Efeméride
       fr: Éphémère
       hu: Efemerek
+      id: Ephemera
       pt: Efémera
       pt-BR: Efímero
       sl: 'Priložnostno gradivo'
@@ -9562,6 +9751,7 @@ QubitTerm:
       es: Ensayos
       fr: Essais
       hu: Tanulmányok
+      id: Esai
       is: Ritgerðir
       pt: Ensaios
       pt-BR: Ensaios
@@ -9579,6 +9769,7 @@ QubitTerm:
       es: Etnografía
       fr: Ethnographie
       hu: Etnográfia
+      id: Etnografi
       is: Þjóðfræði
       it: Etnografia
       pt: Etnografia
@@ -9596,6 +9787,7 @@ QubitTerm:
       es: 'Notas de campo'
       fr: 'Notes de terrain'
       hu: 'Területre vonatkozó jegyzetek/feljegyzések'
+      id: 'Catatan Lapangan'
       pt: 'Anotações do campo'
       pt-BR: 'Notas de campo'
       sl: 'Zapiski s terena'
@@ -9614,6 +9806,7 @@ QubitTerm:
       es: Ilustraciones
       fr: Illustrations
       hu: Ábrázolások
+      id: Ilustrasi
       is: Myndskreytingar
       it: Illustrazioni
       pt: Ilustrações
@@ -9633,6 +9826,7 @@ QubitTerm:
       es: Entrevistas
       fr: Entrevues
       hu: Interjúk
+      id: Wawancara
       pt: Entrevistas
       pt-BR: Entrevistas
       sl: Intervjuji
@@ -9650,6 +9844,7 @@ QubitTerm:
       es: Paisajes
       fr: Paysages
       hu: Tájak
+      id: Bentang alam
       pt: Paisagens
       pt-BR: Paisagens
       sl: Pokrajine
@@ -9666,6 +9861,7 @@ QubitTerm:
       es: Folletos
       fr: Dépliants
       hu: Brosúrák
+      id: Brosur
       pt: Folhetos
       pt-BR: Folhetos
       sl: Letaki
@@ -9684,6 +9880,7 @@ QubitTerm:
       es: Manuscriptos
       fr: Manuscrits
       hu: Kéziratok
+      id: Naskah
       is: Handrit
       it: Manoscritti
       pt: Manuscritos
@@ -9706,6 +9903,7 @@ QubitTerm:
       es: Mapas
       fr: Cartes
       hu: Térképek
+      id: Peta
       is: Kort
       it: Mappe
       pt: Mapas
@@ -9727,6 +9925,7 @@ QubitTerm:
       es: 'Documentos misceláneos'
       fr: 'Documents divers'
       hu: 'Vegyes Dokumentumok'
+      id: 'Aneka macam dokumen'
       is: 'Ýmis gögn'
       pt: 'Documentos diversos'
       pt-BR: 'Documentos Diversos'
@@ -9746,6 +9945,7 @@ QubitTerm:
       es: Películas
       fr: 'Images en mouvement'
       hu: Mozgóképek
+      id: 'Film'
       ja: 映画
       pt: 'Imagens em movimento'
       pt-BR: 'Imagens em movimento'
@@ -9766,6 +9966,7 @@ QubitTerm:
       es: Música
       fr: Musique
       hu: Zene
+      id: Musik
       is: Tónlist
       it: Musica
       ja: 音楽
@@ -9788,6 +9989,7 @@ QubitTerm:
       es: Narraciones
       fr: Récits
       hu: Narratívák
+      id: Narasi
       is: Frásagnir
       pt: Narrativas
       pt-BR: Narrativas
@@ -9808,6 +10010,7 @@ QubitTerm:
       es: Pinturas
       fr: Peintures
       hu: Festmények
+      id: Lukisan
       ja: 絵画
       pt: Pinturas
       pt-BR: Pinturas
@@ -9827,6 +10030,7 @@ QubitTerm:
       es: Folleto
       fr: Dépliants
       hu: Röplapok
+      id: Pamflet
       it: Opuscoli
       ja: パンフレット
       pt: Panfletos
@@ -9846,6 +10050,7 @@ QubitTerm:
       es: 'Publicaciones periódicas'
       fr: Périodiques
       hu: Periodikák
+      id: Majalah
       it: Periodici
       ja: 定期刊行物
       pt: Periódicos
@@ -9867,6 +10072,7 @@ QubitTerm:
       es: Peticiones
       fr: Pétitions
       hu: Petíciók
+      id: Petisi
       is: Beiðni
       pt: Petições
       pt-BR: Petições
@@ -9888,6 +10094,7 @@ QubitTerm:
       es: Fotografía
       fr: Photographies
       hu: Fényképek
+      id: Foto
       is: Ljósmyndir
       it: Fotografie
       ja: 写真
@@ -9910,6 +10117,7 @@ QubitTerm:
       es: 'Objetos físicos'
       fr: 'Objets physiques'
       hu: 'Fizikai objektumok'
+      id: 'Objek Fisik'
       ja: 物理的オブジェクト
       pt: 'Objecto físico'
       pt-BR: 'Objetos Físicos'
@@ -9931,6 +10139,7 @@ QubitTerm:
       es: Poesía
       fr: Poésie
       hu: Költészet
+      id: Puisi
       it: Poesia
       ja: 詩
       pt: Poesia
@@ -9952,6 +10161,7 @@ QubitTerm:
       es: Retratos
       fr: Portraits
       hu: Arcképek
+      id: Potret
       it: Ritratti
       pt: Retratos
       pt-BR: Retratos
@@ -9972,6 +10182,7 @@ QubitTerm:
       es: 'Tarjetas Postales'
       fr: 'Cartes postales'
       hu: Képeslapok
+      id: Kartu Pos
       ja: はがき
       pt: Postais
       pt-BR: 'Cartões postais'
@@ -9993,6 +10204,7 @@ QubitTerm:
       es: Pósters
       fr: 'Affiches (posters)'
       hu: Poszterek
+      id: Poster
       it: Poster
       ja: ポスター
       pt: Posters
@@ -10012,6 +10224,7 @@ QubitTerm:
       es: Impresiones
       fr: Affiches
       hu: Nyomtatások
+      id: Cetakan
       pt: Impressões
       pt-BR: Impressões
       sl: Natisi
@@ -10030,6 +10243,7 @@ QubitTerm:
       es: Programas
       fr: Programmes
       hu: Programok
+      id: Program
       it: Programmi
       pt: Programas
       pt-BR: Programas
@@ -10048,6 +10262,7 @@ QubitTerm:
       es: 'Grabar registros'
       fr: 'Journaux d''enregistrements'
       hu: 'Nyilvántartó naplók'
+      id: 'Log rekaman'
       pt: 'Gravar registos'
       pt-BR: 'Gravando log de dados'
       sl: 'Logaritem posnetka'
@@ -10064,6 +10279,7 @@ QubitTerm:
       es: 'Signos musicales'
       fr: Notes
       hu: Kották
+      id: Skor
       pt: Resultados
       pt-BR: Pontuações
       sl: 'Filmske skladbe'
@@ -10080,6 +10296,7 @@ QubitTerm:
       es: Partitura
       fr: 'Partition de musique'
       hu: Kotta
+      id: Lembar Musik
       it: Spartito
       ja: 楽譜
       pt: 'Folha de música'
@@ -10098,6 +10315,7 @@ QubitTerm:
       es: Horarios
       fr: Calendriers
       hu: Időbeosztás
+      id: Jadwal
       pt: Horários
       pt-BR: Horários
       sl: 'Časovni načrt'
@@ -10115,6 +10333,7 @@ QubitTerm:
       es: Transcripciones
       fr: Transcriptions
       hu: Átiratok
+      id: Transkripsi
       it: Trascrizioni
       pt: Transcrições
       pt-BR: Transcrições
@@ -10131,6 +10350,7 @@ QubitTerm:
       es: 'Nota de firma'
       fr: 'Note sur la signature'
       hu: 'Aláírások jegyzet'
+      id: 'Catatan tanda tangan'
       pt: 'Nota de estatuto'
       pt-BR: 'Nota de assinaturas'
       sr: 'Напомена о сигнатури'
@@ -10142,6 +10362,7 @@ QubitTerm:
       en: 'Cast note'
       fr: 'Note de l''équipe'
       hu: 'Szereposztás jegyzet'
+      id: 'Cast note'
       pt: 'Nota de lançamento'
       pt-BR: 'Nota da equipe'
   QubitTerm_credits_note:
@@ -10153,6 +10374,7 @@ QubitTerm:
       es: 'Nota de créditos'
       fr: 'Note sur les crédits'
       hu: 'Szerzőkre, készítőkre vonatkozó jegyzet'
+      id: 'Catatan Kredit'
       pt: 'Notas do arquivista'
       pt-BR: 'Nota de créditos'
 QubitNote:

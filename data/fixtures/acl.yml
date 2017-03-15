@@ -17,6 +17,7 @@ QubitAclGroup:
       fr: anonyme
       gl: anónimo
       hu: anonim
+      id: anonim
       is: nafnlaus
       it: anonimo
       ja: 匿名
@@ -48,6 +49,7 @@ QubitAclGroup:
       fr: authentifié
       gl: autentificado
       hu: bejelentkezett
+      id: terautentikasi
       is: staðfest
       it: autenticato
       ja: 認証された
@@ -77,6 +79,7 @@ QubitAclGroup:
       fr: administrateur
       gl: administrador
       hu: adminisztrátor
+      id: administrator
       is: stjórnandi
       it: Amministratore
       ja: 管理者
@@ -108,6 +111,7 @@ QubitAclGroup:
       fr: 'auteur de la modification'
       gl: editor
       hu: szerkesztő
+      id: editor
       is: ritstjóri
       it: editore
       ja: 編集者
@@ -167,7 +171,7 @@ QubitAclGroup:
       fr: traducteur
       gl: traductor
       hu: fordító
-      id: terjemah
+      id: penerjemah
       is: þýðandi
       it: traduttore
       ja: 翻訳者

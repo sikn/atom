@@ -199,7 +199,7 @@ QubitSetting:
       fr: 'Service d''archives'
       gl: 'Institución arquivística'
       hu: Levéltár
-      id: 'Institusi Arsip'
+      id: 'Lembaga Kearsipan'
       is: Vörslustofnun
       it: 'Istituzione archivistica'
       ja: アーカイブズ機関
@@ -343,6 +343,7 @@ QubitSetting:
       fr: Fonds
       gl: Fondos
       hu: Fond
+      id: Found
       is: Safn
       it: Fondo
       ja: フォンド
@@ -379,6 +380,7 @@ QubitSetting:
       fr: Fonds
       gl: Fondos
       hu: Állomány
+      id: Holdings
       is: Skjalamagn
       it: Patrimoni
       ja: 所蔵
@@ -564,6 +566,7 @@ QubitSetting:
       fr: 'Type de support'
       gl: 'Tipo de medio'
       hu: 'Média típus'
+      id: 'Jenis Media'
       is: 'Gerð miðla'
       it: 'Tipo di supporto'
       ja: メディア種別
@@ -602,6 +605,7 @@ QubitSetting:
       fr: 'Type de document'
       gl: 'Tipo de material'
       hu: 'Anyag típus'
+      id: 'Jenis Material'
       is: Efnisform
       it: 'Tipo di materiale'
       ja: 資料種別
@@ -637,6 +641,7 @@ QubitSetting:
       fr: 'Affiner les résultats par :'
       gl: 'Refinar os resultados por:'
       hu: 'Találatok szűkítése:'
+      id: 'Persempit hasil anda dengan'
       is: 'Þrengja niðurstöður:'
       it: 'Restringi i risultati per:'
       ko: '귀하의 검색 결과를 다음과 같이 좁히시오.:'
@@ -661,6 +666,7 @@ QubitSetting:
       es: Tipo
       fr: Genre
       hu: Műfaj
+      id: Jenis
       pt: Género
       pt-BR: Gênero
       ru: Жанр
@@ -1028,6 +1034,7 @@ QubitSetting:
       es: pdf
       fr: PDF
       hu: pdf
+      id: pdf
       is: pdf
       ko: pdf
       pt: pdf
@@ -1048,6 +1055,7 @@ QubitSetting:
       es: Inventario-Resumen
       fr: 'inventaire sommaire'
       hu: készletösszegzés
+      id: Ringkasan inventaris
       pt: inventário-sumário
       pt-BR: 'inventário sumário'
       sl: 'povzeket - seznam'

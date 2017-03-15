@@ -102,6 +102,7 @@ QubitMenu:
       fr: Gérer
       gl: Administrar
       hu: Szerkesztés
+      id: Kelola
       is: Stjórna
       it: Gestisci
       ja: 管理
@@ -137,6 +138,7 @@ QubitMenu:
       fr: Acquisitions
       gl: Ingresos
       hu: Gyarapodások
+      id: Aksesi
       is: Afhendingar
       it: Acquisizioni
       ja: 受入資料
@@ -171,6 +173,7 @@ QubitMenu:
       fr: 'Donateurs/Services versants'
       gl: Donantes
       hu: Adományozók
+      id: Donor
       is: Gefendur
       it: Donatori
       ja: 寄贈者
@@ -200,6 +203,7 @@ QubitMenu:
       es: Proceso
       fr: Tâches
       hu: Állások
+      id: Tugas
       pt: Tarefas
       pt-BR: Trabalhos
       ru: Задания
@@ -257,6 +261,7 @@ QubitMenu:
       fr: 'Détenteurs de droits'
       gl: 'Titulares de dereitos'
       hu: Jogtulajdonosok
+      id: 'Pemegang Hak'
       is: 'Handhafar leyfis'
       it: 'Detentori di diritti'
       ja: 権利保持者
@@ -328,6 +333,7 @@ QubitMenu:
       fr: Importer
       gl: Importar
       hu: Importálás
+      id: Impor
       is: 'Hlaða inn'
       it: Importa
       ja: インポート
@@ -365,6 +371,7 @@ QubitMenu:
       fr: Administration
       gl: Administrador
       hu: Admin
+      id: Admin
       is: Stjórnandi
       it: Amministrazione
       ja: 管理者
@@ -432,6 +439,7 @@ QubitMenu:
       fr: 'Descriptions archivistiques'
       gl: 'Descrición arquivística'
       hu: Irateírások
+      id: 'Deskripsi Arsip'
       is: 'Lýsandi samantektir'
       it: 'Descrizioni archivistiche'
       ja: アーカイブズ記述
@@ -465,6 +473,7 @@ QubitMenu:
       fr: 'Notices d''autorité'
       gl: 'Rexistros de autoridade'
       hu: Iratképzők
+      id: 'Pencipta Arsip'
       is: Nafnspjöld
       it: 'Record d''autorità'
       ja: 典拠レコード
@@ -497,7 +506,7 @@ QubitMenu:
       fr: 'Services d''archives'
       gl: Repositorios
       hu: Levéltárak
-      id: Repositori
+      id: 'Lembaga Kearsipan'
       is: Vörslustofnanir
       it: 'Istituzione archivistica'
       ja: アーカイブズ機関
@@ -603,6 +612,7 @@ QubitMenu:
       fr: XML
       gl: XML
       hu: XML
+      id: XML
       is: XML
       it: XML
       ka: XML
@@ -635,6 +645,7 @@ QubitMenu:
       fr: CSV
       gl: CSV
       hu: CSV
+      id: CSV
       is: CSV
       it: CSV
       ka: CSV
@@ -668,6 +679,7 @@ QubitMenu:
       fr: Utilisateurs
       gl: Usuarios
       hu: Felhasználók
+      id: Pengguna
       is: Notendur
       it: Utenti
       ja: ユーザー
@@ -703,6 +715,7 @@ QubitMenu:
       fr: Profil
       gl: Perfil
       hu: Profil
+      id: Profil
       is: Síða
       it: Profilo
       ja: プロフィール
@@ -739,6 +752,7 @@ QubitMenu:
       fr: 'Droits sur la description archivistique'
       gl: 'Permisos de descrición arquivística'
       hu: 'Irateírási jogosultságok'
+      id: 'Izin Deskripsi Arsip'
       it: 'Permessi per la descrizione archivistica'
       ja: 情報オブジェクト許可
       ka: 'საინფორმაციო ობიექტის უფლებამოსილებები'
@@ -767,7 +781,7 @@ QubitMenu:
       fr: 'Droits de la notice d''autorité'
       gl: 'Permisos de actor'
       hu: 'Iratképző leírási jogosultságok'
-      id: 'Izin Aktor'
+      id: 'Izin Pencipta Arsip'
       it: 'Permessi per il record d''autorità'
       ja: 主体者の許可
       ka: 'მონაწილის უფლებები'
@@ -796,6 +810,7 @@ QubitMenu:
       fr: 'Autorisations du services d''archives'
       gl: 'Permisos de institución arquivística'
       hu: 'Levéltári intézmény jogosultságok'
+      id: 'Izin Lembaga Kearsipan'
       is: 'Heimildir vörslustofnunar'
       it: 'Permessi dell''istituto archivistico'
       ko: '기록관리기관 접근권한'
@@ -823,7 +838,7 @@ QubitMenu:
       fr: 'Droits sur les référentiels'
       gl: 'Permisos de taxonomías'
       hu: 'Taxonómiai jogosultságok'
-      id: 'Perijinan Taksonomi'
+      id: 'Izin Taksonomi'
       it: 'Permessi relativi alla tassonomia'
       ja: 分類許可
       ka: 'ტაქსონომის ნების დართვა'
@@ -855,6 +870,7 @@ QubitMenu:
       fr: Groupes
       gl: Grupos
       hu: Csoportok
+      id: Kelompok
       is: Hópar
       it: Gruppi
       ja: グループ
@@ -889,6 +905,7 @@ QubitMenu:
       fr: Profil
       gl: Perfil
       hu: Profil
+      id: Profil
       is: Síða
       it: Profilo
       ja: プロフィール
@@ -925,6 +942,7 @@ QubitMenu:
       fr: 'Droits sur la description archivistique'
       gl: 'Permisos de descrición arquivística'
       hu: 'Irateírási jogosultságok'
+      id: 'Izin Deskripsi Arsip'
       it: 'Permessi per la descrizione archivistica'
       ja: 情報オブジェクト許可
       ka: 'საინფორმაციო ობიექტის უფლებამოსილებები'
@@ -953,7 +971,7 @@ QubitMenu:
       fr: 'Droits de la notice d''autorité'
       gl: 'Permisos de actor'
       hu: 'Iratképző leírási jogosultságok'
-      id: 'Izin Aktor'
+      id: 'Izin Pencipta Arsip'
       it: 'Permessi per il record d''autorità'
       ja: 主体者の許可
       ka: 'მონაწილის უფლებები'
@@ -982,6 +1000,7 @@ QubitMenu:
       fr: 'Autorisations du services d''archives'
       gl: 'Permisos de institución arquivística'
       hu: 'Levéltári intézmény jogosultságok'
+      id: 'Izin Lembaga Kearsipan'
       is: 'Heimildir vörslustofnunar'
       it: 'Permessi dell''istituto archivistico'
       ko: '기록관리기관 접근권한'
@@ -1009,7 +1028,7 @@ QubitMenu:
       fr: 'Droits sur les référentiels'
       gl: 'Permisos de taxonomías'
       hu: 'Taxonómiai jogosultságok'
-      id: 'Perijinan Taksonomi'
+      id: 'Izin Taksonomi'
       it: 'Permessi relativi alla tassonomia'
       ja: 分類許可
       ka: 'ტაქსონომის ნების დართვა'
@@ -1042,6 +1061,7 @@ QubitMenu:
       fr: 'Pages statiques'
       gl: 'Páxinas estáticas'
       hu: 'Statikus oldalak'
+      id: 'Halaman Statis'
       it: 'Pagine statiche'
       ja: 静的ページ
       ka: 'არეულ-დარეული გვერდები'
@@ -1075,6 +1095,7 @@ QubitMenu:
       fr: Menus
       gl: Menús
       hu: Menük
+      id: Menu
       is: Valmyndir
       it: Menu
       ja: メニュー
@@ -1107,6 +1128,7 @@ QubitMenu:
       eu: Pluginak
       fr: Extensions
       hu: Bővítmények
+      id: Plugin
       is: Viðbætur
       it: Plugin
       ja: プラグイン
@@ -1139,7 +1161,7 @@ QubitMenu:
       eu: Itxura-azala
       fr: Thèmes
       gl: Temas
-      hu: Sminkek
+      hu: Sminkek      
       id: Tema
       is: Þemu
       it: Temi
@@ -1176,6 +1198,7 @@ QubitMenu:
       fr: Paramétrages
       gl: Configuraciones
       hu: Beállítások
+      id: Pengaturan
       is: Stillingar
       it: Impostazioni
       ja: 設定
@@ -1243,6 +1266,7 @@ QubitMenu:
       fr: 'Recherche et remplacement généraux'
       gl: 'Búsqueda global/Reemprazar'
       hu: 'Keresés/csere a teljes adatbázisban'
+      id: 'Pencarian Global/menggantikan'
       is: 'Víðvær leit/skipti'
       it: 'Ricerca/Sostituisci (globale)'
       ja: 'グローバル 検索/変更'
@@ -1276,6 +1300,7 @@ QubitMenu:
       fr: Accueil
       gl: Inicio
       hu: Kezdőlap
+      id: Beranda
       is: Heim
       it: 'Pagina iniziale'
       ja: ホーム
@@ -1311,7 +1336,7 @@ QubitMenu:
       fr: 'À propos'
       gl: Acerca
       hu: Info
-      id: 'Tentang Kami'
+      id: Tentang Kami
       is: Um
       it: Riguardo
       ja: このウェブサイトについて
@@ -1346,6 +1371,7 @@ QubitMenu:
       fr: Aide
       gl: Axuda
       hu: Súgó
+      id: Bantuan
       is: Hjálp
       it: Aiuto
       ja: ヘルプ
@@ -1380,6 +1406,7 @@ QubitMenu:
       fr: 'Mon profil'
       gl: 'O meu perfil'
       hu: 'Saját profilom'
+      id: 'Profil Saya'
       is: 'Síðan mín'
       it: 'Il mio profilo'
       ja: 私のプロフィール
@@ -1416,6 +1443,7 @@ QubitMenu:
       fr: 'Ouverture de session'
       gl: 'Iniciar sesión'
       hu: Bejelentkezés
+      id: 'Masuk'
       is: Innskráning
       it: Accedi
       ja: ログイン
@@ -1454,6 +1482,7 @@ QubitMenu:
       fr: 'Fermeture de session'
       gl: 'Pechar sesión'
       hu: Kijelentkezés
+      id: 'Keluar'
       is: Útskráning
       it: Esci
       ja: ログアウト
@@ -1489,6 +1518,7 @@ QubitMenu:
       fr: 'Descriptions archivistiques'
       gl: 'Descrición arquivística'
       hu: Irateírások
+      id: 'Deskripsi Arsip'
       is: 'Lýsandi samantektir'
       it: 'Descrizioni archivistiche'
       ja: アーカイブズ記述
@@ -1521,6 +1551,7 @@ QubitMenu:
       fr: 'Notices d''autorité'
       gl: 'Rexistros de autoridade'
       hu: Iratképzők
+      id: 'Pencipta Arsip'
       is: Nafnspjöld
       it: 'Record d''autorità'
       ja: 典拠レコード
@@ -1552,7 +1583,7 @@ QubitMenu:
       fr: 'Services d''archives'
       gl: Repositorios
       hu: Levéltárak
-      id: Repositori
+      id: 'Lembaga Kearsipan'
       is: Vörslustofnanir
       it: 'Istituzione archivistica'
       ja: アーカイブズ機関
@@ -1767,6 +1798,7 @@ QubitMenu:
       fr: 'Pages statiques'
       gl: 'Páxinas estáticas'
       hu: 'Statikus oldalak'
+      id: 'Halaman Statis'
       it: 'Pagine statiche'
       ja: 静的ページ
       ka: 'არეულ-დარეული გვერდები'
@@ -1791,6 +1823,7 @@ QubitMenu:
       es: Portapapeles
       fr: Presse-papier
       hu: Vágólap
+      id: Clipboard
       pt: 'Área de transferência'
       pt-BR: 'Área de Transferência'
       sr: Међумеморија
@@ -1804,6 +1837,7 @@ QubitMenu:
       es: 'Borrar selección'
       fr: 'Effacer les sélections'
       hu: 'Kijelöltek törlése'
+      id: 'Hapus Pilihan'
       pt: 'Limpar seleções'
       pt-BR: 'Limpar seleção'
       sr: 'Очисти одабрано'
@@ -1817,6 +1851,7 @@ QubitMenu:
       es: 'Ir al portapapeles'
       fr: 'Aller au presse-papier'
       hu: 'Menj a vágólapra'
+      id: 'Go to clipboard'
       pt: 'Ir para a área de transferência'
       pt-BR: 'Ir para a área de transferência'
       sr: 'Иди у међумеморију (clipboard)'

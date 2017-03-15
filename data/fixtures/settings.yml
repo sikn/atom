@@ -1095,6 +1095,7 @@ QubitSetting:
       es: 'barra lateral'
       fr: 'barre latérale'
       hu: 'oldalsó mező'
+      id: sidebar
       pt: 'barra lateral'
       pt-BR: 'barra lateral'
       sr: 'бочна трака'

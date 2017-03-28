@@ -85,7 +85,7 @@ all:
   user:
     class: myUser
     param:
-      timeout: 1800 # Session timeout in seconds
+      timeout: 3600 # Session timeout in seconds
 
   logger:
     class: sfAggregateLogger

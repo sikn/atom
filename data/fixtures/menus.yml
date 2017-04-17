@@ -507,7 +507,7 @@ QubitMenu:
       fr: 'Services d''archives'
       gl: Repositorios
       hu: Levéltárak
-      id: 'Lembaga Kearsipan'
+      id: 'Pengelola Arsip'
       is: Vörslustofnanir
       it: 'Istituzione archivistica'
       ja: アーカイブズ機関
@@ -811,7 +811,7 @@ QubitMenu:
       fr: 'Autorisations du services d''archives'
       gl: 'Permisos de institución arquivística'
       hu: 'Levéltári intézmény jogosultságok'
-      id: 'Izin Lembaga Kearsipan'
+      id: 'Izin Pengelola Arsip'
       is: 'Heimildir vörslustofnunar'
       it: 'Permessi dell''istituto archivistico'
       ko: '기록관리기관 접근권한'
@@ -1001,7 +1001,7 @@ QubitMenu:
       fr: 'Autorisations du services d''archives'
       gl: 'Permisos de institución arquivística'
       hu: 'Levéltári intézmény jogosultságok'
-      id: 'Izin Lembaga Kearsipan'
+      id: 'Izin Pengelola Arsip'
       is: 'Heimildir vörslustofnunar'
       it: 'Permessi dell''istituto archivistico'
       ko: '기록관리기관 접근권한'
@@ -1584,7 +1584,7 @@ QubitMenu:
       fr: 'Services d''archives'
       gl: Repositorios
       hu: Levéltárak
-      id: 'Lembaga Kearsipan'
+      id: 'Pengelola Arsip'
       is: Vörslustofnanir
       it: 'Istituzione archivistica'
       ja: アーカイブズ機関

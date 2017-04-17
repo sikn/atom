@@ -102,7 +102,7 @@ QubitMenu:
       fr: Gérer
       gl: Administrar
       hu: Szerkesztés
-      id: Kelola
+      id: Kelola data
       is: Stjórna
       it: Gestisci
       ja: 管理
@@ -138,7 +138,7 @@ QubitMenu:
       fr: Acquisitions
       gl: Ingresos
       hu: Gyarapodások
-      id: Aksesi
+      id: Akuisisi
       is: Afhendingar
       it: Acquisizioni
       ja: 受入資料
@@ -405,7 +405,7 @@ QubitMenu:
       fr: 'Notices d''acquisition'
       gl: 'Rexistros de ingresos'
       hu: 'Gyarapodási rekordok'
-      id: 'Aksesi Arsip'
+      id: 'Akuisisi Arsip'
       is: Aðfangaskrá
       it: 'Registrazioni delle acquisizioni'
       ja: 受入記録
@@ -543,7 +543,7 @@ QubitMenu:
       fr: Termes
       gl: Termos
       hu: Kifejezések/Feltételek
-      id: Istilah
+      id: Terminologi
       is: Ákvæði
       it: Termini
       ja: 用語
@@ -1852,7 +1852,7 @@ QubitMenu:
       es: 'Ir al portapapeles'
       fr: 'Aller au presse-papier'
       hu: 'Menj a vágólapra'
-      id: 'Go to clipboard'
+      id: 'Buka clipboard'
       pt: 'Ir para a área de transferência'
       pt-BR: 'Ir para a área de transferência'
       sr: 'Иди у међумеморију (clipboard)'
